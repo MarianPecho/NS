@@ -1,0 +1,36 @@
+.ff{
+    background-image: url(./login/img_login/fondo.jpg);
+    background-color: black;
+    background-repeat: no-repeat; /* Evita que la imagen se repita */ 
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */ 
+    background-position: center; /* Centra la imagen en el fondo */
+}
+
+#inicio{
+    background-color: black;
+    text-emphasis-color: white;
+}
+.caja1{
+    margin-top: 5px;
+    background-color: white;
+    max-width: 400px;
+}
+.header{
+    display:flex ;
+}
+
+.half-page{
+    height: 95vh;
+    width: 90vh;
+}
+
+.login-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+

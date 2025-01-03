@@ -1,0 +1,44 @@
+.ff{
+    background-image: url(./login/img_login/fondo.jpg);
+    background-color: black;
+    background-repeat: no-repeat; /* Evita que la imagen se repita */ 
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */ 
+    background-position: center; /* Centra la imagen en el fondo */
+}
+#inicio{
+    background-color: black;
+    text-emphasis-color: white;
+}
+.caja{
+    width: 80px;
+}
+.caja1{
+    background-color: white;
+    max-width: 400px;
+
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-right: 50px;
+}
+.row{
+    margin-left: 60px;
+}
+.half-page{
+    height: 95vh;
+    width: 100vh;
+}
+
+.login-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image-section{
+    background-image: url(./login/img_login/mainCon.png);
+    
+    background-size: cover;
+}
+
+
+
